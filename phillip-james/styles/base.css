@@ -1,0 +1,9 @@
+
+.site-header {
+    background-color: yellow;
+    display: block;
+}
+main {
+    width: 90%;
+    margin: auto;
+}

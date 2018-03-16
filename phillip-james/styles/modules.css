@@ -1,0 +1,20 @@
+.main-nav ul {
+    display: none;
+}
+.main-nav-img:hover {
+    border-width: 20px;
+    border-color: orange;
+    border-style: solid;
+}
+.main-nav-img {
+    display: block;
+    float: right;    
+}
+@media only screen and (min-width: 640px) {
+    .main-nav-img {
+        display: none;
+    }
+    .main-nav ul {
+        display: inline;
+    }
+}
