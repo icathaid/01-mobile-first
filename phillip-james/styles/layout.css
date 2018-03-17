@@ -5,9 +5,13 @@ nav ul li {
     margin-right: 3%;
 }
 nav a {
-    color: green;
+    color: gray;
     text-decoration: none;
 }
 img {
     float: right;
+}
+
+h1 {
+    margin-top: 0;
 }

@@ -1,9 +1,10 @@
 
 .site-header {
-    background-color: yellow;
+    background-color: rgb(253, 236, 205);
     display: block;
 }
+
 main {
-    width: 90%;
+    width: 95%;
     margin: auto;
 }
