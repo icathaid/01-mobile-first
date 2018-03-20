@@ -1,9 +1,9 @@
 nav ul li {
-    display: inline-block;
     color: gray;
     margin-bottom: 25px;
     margin-right: 3%;
 }
+
 nav a {
     color: gray;
     text-decoration: none;

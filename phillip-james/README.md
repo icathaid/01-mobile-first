@@ -22,10 +22,11 @@ Add Hamburger Icon
 1.0.3 - minor CSS changes to colors
 1.0.4 - hamburger icon now stays at the top right corner
 1.0.5 - got the formatting almost done.  just needs the nav portion to work as needed.
+1.0.6 - khoa and josh helped us out figure some more stuff out.
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+Special thanks to Khoa and Josh
