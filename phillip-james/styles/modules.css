@@ -2,16 +2,25 @@
     position: relative;
     display: inline-block;
 }
-.main-nav:hover .content {
-    display: inline;
+.main-nav:hover .content{
+    display: block;
+    width: 100%;
+    height: 200px;
     /* styling rules for dropdown menu go here */
 }
 .content {
     display: none;
 }
+
+.main-nav img {
+    width: 50%;
+    margin-top: 5px;
+}
+
 .main-nav-img {
     display: block;
-    float: left;
+    float: right;
+    width: 20%;
 }
 
 
@@ -20,6 +29,16 @@
         display: none;
     }
     .content {
-        display: inline;
+        display: block;
+        width: 100%;
+        height: 15px;
+        background-color: rgb(253, 236, 205);
     }
+}
+
+.clearfix:after {
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
 }
